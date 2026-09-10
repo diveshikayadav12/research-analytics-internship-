@@ -8,6 +8,7 @@ Diveshika Yadav — Research and Analytics Intern
 ## 📁 Contents
 - **Internship Report (.docx)** — Full report covering internship objectives, methodology, survey findings, FAQ development work, key insights, and conclusion.
 - **Presentation (.pptx)** — Slide deck summarizing the internship work, survey analysis, and key findings.
+- **Internship Certificate (.pdf)** — Official completion certificate from Satvify.
 
 ## 📊 Work Summary
 - Designed and conducted two consumer surveys:
